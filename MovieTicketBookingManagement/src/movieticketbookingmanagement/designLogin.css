@@ -1,0 +1,83 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 26, 2023, 10:59:53 PM
+    Author     : Elga
+*/
+
+
+.close {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+}
+
+.close:hover {
+    -fx-background-color: #ff5151;
+    
+}
+
+
+.minimize {
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+}
+
+.minimize:hover {
+    -fx-background-color: #D5DBE2;
+    
+}
+
+.textfield {
+    -fx-background-color: transparent;
+    -fx-text-innrt-color: #fff;
+    -fx-border-color: #d63333;
+    -fx-border-width: 0px 0px .4px 0px;
+    -fx-text-size: 13px;
+    -fx-text-fill: #ffffff
+}
+
+
+.textfield:focused {
+    -fx-border-color:#fb6363;
+    -fx-border-width:0px 0px 1px 0px;
+}
+
+
+.signin-btn {
+    -fx-background-color: linear-gradient(to bottom right, #35529d, #2371d0);
+    -fx-background-radius:8px;
+    -fx-text-fill: #fff;
+    -fx-font-size: 14px;
+    -fx-cursor: hand;
+}
+
+.signin-btn:hover {
+    -fx-background-color: linear-gradient(to bottom right, #3862c2, #4284d0);
+}
+
+.hyperlink {
+    -fx-underline:true;
+    -fx-text-fill: #ffffff;
+    -fx-border-color:transparent;
+    -fx-border-width:0px;
+}
+
+.hyperlink:hover{
+    -fx-text-fill: #0097CA;
+}
+
+.signup-btn {
+    -fx-background-color: linear-gradient(to bottom right, #35529d, #2371d0);
+    -fx-background-radius: 8px;
+    -fx-cursor: hand;
+    -fx-font-size:14px;
+    -fx-cursor: hand;
+    -fx-text-fill:#fff;
+    
+}
+
+.signup-btn:hover{
+    -fx-background-color: linear-gradient(to bottom right, #3862c2, #4284d0);
+}

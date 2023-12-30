@@ -1,0 +1,212 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 28, 2023, 5:06:11 AM
+    Author     : Elga
+*/
+
+.close {
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+    
+}
+
+.close:hover {
+    -fx-background-color:#e74141;
+}
+
+
+.minimize {
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+    
+}
+
+.minimize:hover {
+    -fx-background-color:#D5DBE2;
+}
+
+
+.nav-btn{
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+    -fx-text-fill:#ffffff;
+    -fx-font-size:14px;
+    -fx-alignment:CENTER_LEFT
+}
+
+.nav-btn:hover{
+    -fx-background-color: #A07779;
+}
+
+.card1 {
+    -fx-background-radius: 4px;
+    -fx-background-color:  #543538;
+}
+
+.card1:hover {
+    -fx-background-color: #A07779;
+    -fx-cursor:hand;
+}
+
+
+.movie-card {
+    -fx-background-radius: 6px;
+}
+
+.bg-brown {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,.3), 8,0,0,0);
+    -fx-background-color:#543538;
+    -fx-background-radius:8px;
+}
+
+.bg-brown:hover{
+        -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,.5), 8,0,0,0);
+
+}
+
+.bg-white {
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,.3), 8,0,0,0);
+    -fx-background-color: #E6DFDB;
+    -fx-background-radius:8px;
+}
+
+.bg-white:hover{
+        -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,.5), 8,0,0,0);
+
+}
+
+.add-textfield {
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 0px 5px 0px 0px;
+    -fx-border-color: #1e242e;
+    -fx-border-width:.8px;
+    -fx-border-radius:0px 5px 0px 0px;
+    -fx-font-size:13px;
+}
+
+.add-textfield:focused{
+    -fx-border-color:#A07779;
+    -fx-border-width:1.5px;
+    
+}
+
+
+.btn{
+    -fx-background-color: #E6DFDB;
+    -fx-background-radius: 8px;
+    -fx-text-fill:#000000;
+    -fx-font-size:14px;
+    -fx-cursor:hand;
+    
+}
+
+
+    
+
+    .btn:hover{
+    -fx-background-color: #B6CEFD;
+}
+
+
+
+.search {
+    -fx-background-color:#ffffff;
+    -fx-background-radius: 0px 10px 0px 0px;
+    -fx-border-color:#543538;
+    -fx-border-width:1px;
+    -fx-font-size:14px;
+    -fx-border-radius:0px 10px 0px 0px;
+    -fx-padding:0px 0px 0px 10px;
+    
+}
+
+
+.search:focused{
+    -fx-border-color:#A07779;
+    -fx-border-width:2px;
+    
+}
+
+
+.table-view{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 10px;
+    -fx-border-color: #543538;
+    -fx-border-radius: 10px;
+    -fx-text-fill: #ffffff;
+}
+
+.table-view .column-header-background{
+    -fx-background-color: #543538;
+    -fx-background-insets: 0 0 0 0;
+    -fx-background-radius: 10px;
+    -fx-border-color: #543538;;
+    -fx-border-radius: 10px;
+    -fx-fill: #ffffff;
+    
+}
+
+
+.table-view .column-header, .table-view .filler {
+    -fx-background-color:transparent;
+    -fx-size:30px;
+    -fx-fill:#ffffff;
+}
+
+.table-view .column-header .label{
+    -fx-text-fill: #ffffff;
+    
+}
+
+
+.info-card {
+    -fx-border-color:#ae2d3c;
+    -fx-border-radius:10px 0px 0px 10px;
+}
+
+.spinner {
+    -fx-background-color: #ffffff;
+    -fx-border-color: #000000;
+    -fx-border-width: .5px;
+}
+
+
+.btn-brown{
+    -fx-background-color: #543538;
+    -fx-background-radius: 8px;
+    -fx-text-fill:#ffffff;
+    -fx-font-size:14px;
+    -fx-cursor:hand;
+    
+}
+
+
+    
+
+    .btn-brown:hover{
+    -fx-background-color: #A07779;
+}
+
+
+.btn-def{
+    -fx-background-color: #E6DFDB;
+    -fx-background-radius: 8px;
+    -fx-text-fill:#000000;
+    -fx-font-size:14px;
+    -fx-cursor:hand;
+    
+}
+
+
+    
+
+.btn-def:hover{
+    -fx-background-color: #ffffff;
+}
+
+.combo-box:hover{
+    -fx-background-color: #ffffff;
+}
