@@ -51,5 +51,6 @@
  
 9.	Halaman Customers
  
+![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/98951d2a-bbb4-4308-8918-94fe671334e4)
 
-![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/6e699738-84c1-419f-8ef6-079808c95f85)
+
