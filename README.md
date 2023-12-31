@@ -36,17 +36,18 @@
  
 
 
-![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/c6fb889e-e6af-46df-9e7b-23f2c968ce94)
 
+![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/202440c5-9aa9-4e3d-a2a8-64460cb0f7bf)
 
 
 
 
 8.	Halaman Edit Screening
 
-![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/c717e8e7-cbed-4010-b4d6-bcef9756f334)
 
 
+
+![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/e05a54a1-58a8-409e-b02f-69a96e7f57ab)
 
  
 9.	Halaman Customers
