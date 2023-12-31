@@ -546,9 +546,9 @@
                            <children>
                               <TableView fx:id="customers_tableView" layoutX="23.0" layoutY="24.0" onMouseClicked="#selectCustomerList" prefHeight="505.0" prefWidth="550.0" AnchorPane.bottomAnchor="20.0" AnchorPane.leftAnchor="20.0" AnchorPane.rightAnchor="20.0" AnchorPane.topAnchor="24.0">
                                  <columns>
-                                    <TableColumn fx:id="customers_col_ticketNumber" prefWidth="90.66668701171875" text="Ticket Number" />
-                                    <TableColumn fx:id="customers_col_movieTitle" minWidth="0.0" prefWidth="112.00003051757812" text="Movie Title" />
-                                    <TableColumn fx:id="customers_col_totalPayment" prefWidth="110.0" text="Total Payment ($)" />
+                                    <TableColumn fx:id="customers_col_ticketNumber" prefWidth="100.6666259765625" text="Ticket Number" />
+                                    <TableColumn fx:id="customers_col_movieTitle" minWidth="0.0" prefWidth="103.33340454101562" text="Movie Title" />
+                                    <TableColumn fx:id="customers_col_totalPayment" prefWidth="107.33331298828125" text="Total Payment($)" />
                                     <TableColumn fx:id="customers_col_dateCheckedOut" prefWidth="112.6666259765625" text="Date Checked Out" />
                                     <TableColumn fx:id="customers_col_timeCheckedOut" prefWidth="126.0" text="Time Checked Out" />
                                  </columns>
@@ -586,7 +586,7 @@
                                                 </ImageView>
                                              </children>
                                           </AnchorPane>
-                                          <Label layoutX="14.0" layoutY="14.0" text="Total Sold Ticket" textFill="WHITE">
+                                          <Label layoutX="14.0" layoutY="14.0" text="Total Number of Customers" textFill="WHITE">
                                              <font>
                                                 <Font size="18.0" />
                                              </font>
@@ -609,7 +609,7 @@
                                                 </ImageView>
                                              </children>
                                           </AnchorPane>
-                                          <Label layoutX="17.0" layoutY="14.0" text="Total Income Today" textFill="WHITE">
+                                          <Label layoutX="17.0" layoutY="14.0" text="Total Income" textFill="WHITE">
                                              <font>
                                                 <Font size="18.0" />
                                              </font>

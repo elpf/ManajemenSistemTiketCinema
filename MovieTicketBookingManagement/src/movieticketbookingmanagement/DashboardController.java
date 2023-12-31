@@ -428,7 +428,7 @@ public class DashboardController implements Initializable {
                 alert = new Alert(AlertType.CONFIRMATION);
                 alert.setTitle("Confirmation Message");
                 alert.setHeaderText(null);
-                alert.setContentText("Are you sure you want to delete " + customers_movieTitle + "?");
+                alert.setContentText("Are you sure you want to delete " + customers_movieTitle.getText() + "?");
                                 
                 Optional<ButtonType> option = alert.showAndWait();
                 
