@@ -18,10 +18,8 @@
 
 4.	Halaman dashboard
  
+![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/060a0c5e-5b22-401c-af45-fca04c79c507)
 
-
-
-![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/39869e97-9325-4361-93cf-caa53722eb81)
 
 
 
