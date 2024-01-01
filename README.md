@@ -21,7 +21,9 @@
 
 
 
-![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/1448fa8f-08e6-4285-825c-2e9479ec88d6)
+![image](https://github.com/elpf/ManajemenSistemTiketCinema/assets/124456549/39869e97-9325-4361-93cf-caa53722eb81)
+
+
 
 
 
